@@ -32,6 +32,7 @@ AI & Processing Services
 Data Transformation
       ↓
 Data Storage
+```
 
 ## Development Goals
 
